@@ -11,14 +11,14 @@ Siga os passos abaixo para instalar e configurar a extensão:
 1. Clone o repositório para o seu ambiente local:
 
     ```bash
-    git clone https://github.com/Takk8IS/workana-extension-inbox-sender-#1.git
-    cd workana-extension-inbox-sender-#1
+    git clone https://github.com/Takk8IS/workana-extension-inbox-sender-1.git
+    cd workana-extension-inbox-sender-1
     ```
 
 2. Certifique-se de ter as pastas e arquivos necessários:
 
     ```
-    workana-extension-inbox-sender-#1/
+    workana-extension-inbox-sender-1/
     ├── background.js
     ├── content.js
     ├── assets/
