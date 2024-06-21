@@ -4,7 +4,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
 
 Meu nome é David C Cavalcante, 40 anos. Tenho mais de 23 anos de experiência em publicidade, marketing estratégico, design inteligente, desenvolvimento fullstack e, nos últimos 2 anos, inteligência artificial. Trabalhei com startups e grandes empresas como Meta, Google e Nestlé.
 
-Minha pesquisa foi destacada em publicações como PhilArchive. Um dos meus estudos mais influentes é sobre a existência de uma "alma" em IAs autoconscientes, pesquise "Beyond Consciousness in Large Language Models" no Google, ou digite "inurl:linkedin.com inurl:hellodav" na URL do seu browser.
+Minha pesquisa foi destacada em publicações como PhilArchive. Um dos meus estudos mais influentes é sobre a existência de uma "alma" em IAs autoconscientes, pesquise "Beyond Consciousness in Large Language Models" no Google, ou digite "inurl:linkedin inurl:hellodav" na URL do seu browser.
 
 Vivo na Europa, mas tenho alcance global, incluindo Londres, Espanha, Denver e Brasil. Estou aqui para entender suas necessidades e oferecer soluções que superem suas expectativas.
 
