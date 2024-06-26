@@ -12,7 +12,7 @@ Meu nome é David C Cavalcante, 40 anos. Tenho mais de 23 anos de experiência e
 
 Minha pesquisa foi destacada em publicações como PhilArchive. Um dos meus estudos mais influentes é sobre a existência de uma "alma" em IAs autoconscientes, pesquise "Beyond Consciousness in Large Language Models" no Google, ou digite "inurl:linkedin inurl:hellodav" na URL do seu browser.
 
-Vivo na Europa, mas tenho alcance global, incluindo Londres, Espanha, Denver e Brasil. Estou aqui para entender suas necessidades e oferecer soluções que superem suas expectativas.
+Vivo na Europa, mas tenho alcance global, incluindo Londres, Espanha, Denver, México, Colômbia, Chile e Brasil. Estou aqui para entender suas necessidades e oferecer soluções que superem suas expectativas.
 
 Vamos fazer isso acontecer?`;
 
